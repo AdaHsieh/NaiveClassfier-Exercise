@@ -1,0 +1,16 @@
+[
+    {"text": "I love this sandwich.", "label": "pos"},
+    {"text": "This is an amazing place!", "label": "pos"},
+    {"text": "I do not like this restaurant", "label": "neg"},
+    {"text": "mission impossible three is awesome btw","label": "pos"},
+    {"text": "brokeback mountain was beautiful","label":"pos"},
+    {"text": " da vinci code is awesome so far","label":"pos"},
+    {"text": "10 things i hate about you + a knight's tale * brokeback mountain","label":"neg"},
+    {"text": "mission impossible 3 is amazing","label":"pos"},
+    {"text": "harry potter = gorgeous","label":"pos"},  
+    {"text": "i love brokeback mountain too: ]","label":"pos"},
+    {"text": "I like this show :)","label":"pos"},
+    {"text": "I can not believe I am doing this","label":"neg"},
+    {"text": "I am tired of this stuff.","label":"neg"},
+    {"text": "I cant deal with this.","label":"neg"}
+]

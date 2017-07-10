@@ -1,0 +1,35 @@
+The food was good. But the service was horrible. My father was not pleased.
+ => neg
+I like this new tv show.
+ => pos
+I love this sandwich.
+ => pos
+this is an amazing place!
+ => pos
+I feel very good about these beers.
+ => pos
+this is my best work.
+ => pos
+what an awesome view.
+ => pos
+I do not like this restaurant.
+ => neu
+I am tired of this stuff.
+ => neg
+I cant deal with this.
+ => neu
+he is my sworn enemy!
+ => neu
+my boss is horrible.
+ => neg
+I do not enjoy my job.
+ => neg
+the beer was good.
+ => pos
+I aint feeling dandy today.
+ => neu
+I feel amazing!
+ => pos
+Gary is a friend of mine.
+ => neu
+I can't believe I'm doing this. => neu
